@@ -1,0 +1,7 @@
+1. basic seq2seq blog:
+https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1
+
+2. seq2seq + attention
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+3. 
