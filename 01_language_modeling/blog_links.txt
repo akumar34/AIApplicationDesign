@@ -3,5 +3,7 @@ https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-
 
 2. seq2seq + attention
 https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+https://medium.com/@jbetker/implementing-seq2seq-with-attention-in-keras-63565c8e498c
+https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
 
 3. 
