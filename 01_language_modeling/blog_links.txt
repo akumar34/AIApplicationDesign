@@ -7,5 +7,8 @@ https://medium.com/@jbetker/implementing-seq2seq-with-attention-in-keras-63565c8
 https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
 https://medium.com/@jbetker/implementing-seq2seq-with-attention-in-keras-63565c8e498c
 
-3. BERT
+3. Transformer
+https://jalammar.github.io/illustrated-transformer/
+
+3. BERT, Elmo, etc.
 http://jalammar.github.io/illustrated-bert/
