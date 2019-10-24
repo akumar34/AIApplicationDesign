@@ -12,3 +12,7 @@ https://jalammar.github.io/illustrated-transformer/
 
 3. BERT, Elmo, etc.
 http://jalammar.github.io/illustrated-bert/
+
+4. Attention 
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html 
+http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/ 
